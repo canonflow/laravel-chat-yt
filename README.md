@@ -1,4 +1,4 @@
-# Build a REALTIME CHAT app in Laravel
+# Realtime Chat App - Laravel 8
 
 ## Using:
 - Laravel Echo
